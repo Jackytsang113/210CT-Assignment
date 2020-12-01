@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=HeapSort
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Q10\ here.\r\n\r\n\ @author\ TsangHoYin\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ Sequence()
+comment3.params=size\ root
+comment3.target=void\ heap(int,\ int)
+comment4.params=
+comment4.target=java.lang.String\ arrReuslt()
+numComments=5

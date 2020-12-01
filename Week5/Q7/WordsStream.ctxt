@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=WordsStream
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ WordStream\ here.\r\n\r\n\ @author\ TsangHoYin\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=WordsStream()
+comment2.params=
+comment2.target=void\ activeWord()
+comment3.params=firstword\ secondword\ thirdword\ moveword
+comment3.target=void\ moveWord(DoublyNode,\ DoublyNode,\ DoublyNode,\ DoublyNode)
+comment4.params=word1\ word2
+comment4.target=boolean\ checkletter(java.lang.String,\ java.lang.String)
+comment5.params=
+comment5.target=void\ removeAllNode()
+numComments=6

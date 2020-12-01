@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SimpleInput
+comment1.params=prompt
+comment1.target=int\ getInteger(java.lang.String)
+comment2.params=prompt
+comment2.target=float\ getFloat(java.lang.String)
+comment3.params=prompt
+comment3.target=java.lang.String\ getString(java.lang.String)
+comment4.params=prompt
+comment4.target=char\ getChar(java.lang.String)
+numComments=5

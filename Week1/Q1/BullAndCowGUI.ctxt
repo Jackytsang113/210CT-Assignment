@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=BullAndCowGUI
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=BullAndCowGUI()
+comment3.params=event
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=num\ isCorr
+comment4.target=void\ runGame(java.lang.String,\ java.lang.String[])
+comment5.params=isEnd
+comment5.target=void\ isEndGame(boolean)
+comment6.params=v
+comment6.target=java.lang.String\ randomNumber(int)
+comment7.params=num\ isCorr
+comment7.target=java.lang.String\ solver(java.lang.String,\ java.lang.String[])
+numComments=8
